@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+h3{
+    font-size: 30px;
+}
+
+canvas{
+    border: solid 2px black;
+
+}
